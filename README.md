@@ -6,4 +6,4 @@ Speaker: Michal Kolář
 
 Event: 9th Users' Conference of IT4Innovations, Ostrava, Czechia
 
-Date: Octover 30, 2025
+Date: October 30, 2025
